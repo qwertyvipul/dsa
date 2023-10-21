@@ -7,7 +7,7 @@ $O(1)$ , are a lot slower than simpler operations like addition, subtraction o
 
 1. [[2]] A linear combination of two numbers is divisible by their common divisor.
 
-1. [[2]] For $ax + by = c$ a degenerate case is when $a = b = 0$. Depending on wh
+1. [[2]] For $ax + by = c$, a degenerate case is when $a = b = 0$. Depending on whether $c = 0$ or not, the equation can have no solutions or infinitely many solutions.
 
 ## References
 
